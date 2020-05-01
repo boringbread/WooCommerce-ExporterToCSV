@@ -10,5 +10,3 @@ Plugin WordPress untuk mendownload data hasil pendaftaran melalui plugin WooComm
 	<li>Pasang file ini</li>
 </ul>
 Setelah itu akan muncul menu di wp-admin anda dengan judul <i>Export Orders</i>. Klik dan jalankan.
-
-Tidak friendly dengan tanda <i>koma</i>, langsung diganti ke karakter <i>spasi</i> karena separator untuk ke csv nya masih bermasalah.
